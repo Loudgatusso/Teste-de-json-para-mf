@@ -1,0 +1,64 @@
+{
+    "canal": "globo-nordeste",
+    "categoria": "canais abertos",
+    "id": "001",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=bobonordeste"
+    
+}§
+{
+    "canal": "globo-rj",
+    "categoria": "canais abertos",
+    "id": "002",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=boborj"
+    
+}§
+{
+    "canal": "globo-sp",
+    "categoria": "canais abertos",
+    "id": "003",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=bobosp"
+    
+}§
+{
+    "canal": "sbt",
+    "categoria": "canais abertos",
+    "id": "004",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=sbt"
+    
+}§
+{
+    "canal": "record-tv",
+    "categoria": "canais abertos",
+    "id": "005",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=record"
+    
+}§
+{
+    "canal": "band",
+    "categoria": "canais abertos",
+    "id": "006",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=band"
+    
+}§
+{
+    "canal": rede-tv",
+    "categoria": "canais abertos",
+    "id": "007",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=redetv"
+    
+}§
+{
+    "canal": "canal-brasil",
+    "categoria": "canais abertos",
+    "id": "008",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=canalbrasil"
+    
+}§
+{
+    "canal": "canção-nova",
+    "categoria": "canais abertos",
+    "id": "009",
+    "iframe-link": "https://sinalpublico.com/player3/ch.php?canal=cancaonova"
+    
+}§
+
